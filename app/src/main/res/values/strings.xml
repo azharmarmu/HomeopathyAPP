@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeopathyAPP</string>
+    <string name="_11_15_pm">11:15 PM</string>
+    <string name="sample_msg">Azhar Marmu is a good boy but he does not know what he wants.</string>
+    <string name="type_your_message">Type a message</string>
+    <string name="no_recent">No recent</string>
+    <string name="_12_45_pm">12:45 PM</string>
+</resources>
